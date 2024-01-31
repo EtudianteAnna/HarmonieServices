@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic; // Pour List<>
-using Microsoft.AspNetCore.Mvc.Rendering; // Pour SelectList
+﻿using Microsoft.AspNetCore.Mvc.Rendering; // Pour SelectList
 
 namespace HarmonieSanteParamedicalMonolithic.Models
 {
